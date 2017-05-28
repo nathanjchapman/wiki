@@ -1,4 +1,6 @@
-# To get wifi up and running
+# WIFI
+
+## To get wifi up and running
 
 `$ wpa_cli -i <device>`
 
@@ -20,3 +22,5 @@ To associate with `MYSSID`, add the network, set the credentials and enable it:
 > set_network 0 psk "passphrase"
 > enable_network 0
 <2>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:00:00 comleted (reauth) [id=0 id_str=]
+```
+

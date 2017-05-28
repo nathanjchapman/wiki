@@ -1,5 +1,8 @@
+# IP Address
+
 List your computer's ip address:
-    $ ip a
+`$ ip a`
 
 List external ip:
-    curl curlmyip.com
+`curl curlmyip.com`
+
